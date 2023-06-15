@@ -1,3 +1,5 @@
+# Project start instructions:
+
 First of all, make sure you have Docker and Docker Compose installed on your computer.
 
 Here are the deployment instructions for the project:
